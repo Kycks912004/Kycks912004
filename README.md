@@ -1,7 +1,7 @@
 # 👋 Salut, moi c'est Kylian !
 
 ### 🎓 Étudiant en Ingénierie Data & Intelligence Artificielle (M1)
-**ECE Paris** *
+**ECE Paris** 
 
 ---
 
