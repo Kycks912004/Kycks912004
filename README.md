@@ -46,9 +46,6 @@ Projet de Machine Learning sur la prédiction de survie :
 
 ## 🌍 Expériences & International
 * **Échange Académique :** Computer Science à **Hanyang University**, Séoul (Corée du Sud) — 2024-2025.
-* **Expérience Client :** Agent d'accueil à la **RATP** (Gestion des transactions et conseil client) — 2022-2025.
-* **Langues :** Anglais (Niveau B2), Espagnol (Niveau B1), Français (Langue maternelle).
-
 ---
 
 ## 📫 Me contacter
