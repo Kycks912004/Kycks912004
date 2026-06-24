@@ -4,6 +4,8 @@
 
 <br/>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-kycks912004.github.io-6366F1?style=for-the-badge&logo=githubpages&logoColor=white)](https://kycks912004.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kylian_Pinto-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kylian-pinto)
 [![Email](https://img.shields.io/badge/Email-kylian.pinto%40orange.fr-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kylian.pinto@orange.fr)
 [![GitHub](https://img.shields.io/badge/GitHub-Kycks912004-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kycks912004)
 [![ECE Paris](https://img.shields.io/badge/ECE-Paris-6366F1?style=for-the-badge&logo=academia&logoColor=white)](https://www.ece.fr)
@@ -70,7 +72,8 @@
 | 📊 | [**Marketing Analytics — RFM & CLV**](https://github.com/Kycks912004/cohortes-rfm-clv) | Segmentation clients par méthode RFM, calcul de la Customer Lifetime Value, export de listes actionnables. | `Python` `Pandas` `Jupyter` |
 | 🚢 | [**Titanic Survival — CatBoost**](https://github.com/Kycks912004/titanic-survival-catboost) | Feature Engineering avancé + CatBoostClassifier. **Précision : 80.68 %** | `CatBoost` `Python` `Pandas` |
 | 🚦 | [**Traffic Management Kafka**](https://github.com/Kycks912004/my-traffic-management-kafka) | Système de gestion du trafic en temps réel avec streaming via Apache Kafka. | `Python` `Kafka` |
-| ☕ | [**Projet Java OOP**](https://github.com/Kycks912004/projet-java-ing3) | Application orientée objet développée en ING3. | `Java` |
+| ☕ | [**Booking App — Java OOP**](https://github.com/Kycks912004/projet-java-ing3) | Application de réservation d'hébergements avec GUI Swing, MySQL, MVC, JFreeChart. | `Java` `MySQL` `Swing` |
+| 🏋️ | [**Sportify**](https://github.com/Kycks912004/sportify-project) · [🌐 Live](https://kycks912004.github.io/sportify-project/) | Plateforme de coaching sportif full-stack : profils coachs, réservations, messagerie. | `HTML` `CSS` `JS` `PHP` |
 
 </div>
 
@@ -85,7 +88,7 @@
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Kycks912004&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Kycks912004&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://streak-stats.demolab.com)
 
 </div>
 
