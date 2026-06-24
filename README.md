@@ -66,7 +66,7 @@
 
 | # | Projet | Description | Stack |
 |:-:|--------|-------------|-------|
-| 🏠 | [**Analyse Immobilière & Sportive**](https://github.com/Kycks912004/projet-padel-tennis) | Conseil investisseur : analyse des prix au m² via DVF + cartographie interactive offre/demande sportive. Dashboard 10 widgets. | `Python` `Folium` `Plotly` `Pandas` |
+| 🏠 | [**Analyse Immobilière & Sportive**](https://github.com/Kycks912004/projet-padel-tennis) · [🚀 App Live](https://projet-padel-tennis-p7a7yzywhziwgkxv2st3dk.streamlit.app/) | Conseil investisseur : analyse des prix au m² via DVF + cartographie interactive offre/demande sportive. Dashboard 10 widgets. | `Python` `Streamlit` `Folium` `Pandas` |
 | 📊 | [**Marketing Analytics — RFM & CLV**](https://github.com/Kycks912004/cohortes-rfm-clv) | Segmentation clients par méthode RFM, calcul de la Customer Lifetime Value, export de listes actionnables. | `Python` `Pandas` `Jupyter` |
 | 🚢 | [**Titanic Survival — CatBoost**](https://github.com/Kycks912004/titanic-survival-catboost) | Feature Engineering avancé + CatBoostClassifier. **Précision : 80.68 %** | `CatBoost` `Python` `Pandas` |
 | 🚦 | [**Traffic Management Kafka**](https://github.com/Kycks912004/my-traffic-management-kafka) | Système de gestion du trafic en temps réel avec streaming via Apache Kafka. | `Python` `Kafka` |
